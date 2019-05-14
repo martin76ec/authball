@@ -7,17 +7,17 @@
 //
 
     function getRoute(){
-        return "http://localhost:8080/authball/";
+        return "https://authball.azurewebsites.net/";
     }
 
     function getControllerRoute(){
-        return "http://localhost:8080/authball/";
+        return "https://authball.azurewebsites.net/controller";
     }
 
     function getModelRoute(){
-        return "http://localhost:8080/authball/model/";
+        return "https://authball.azurewebsites.net/model/";
     }
 
     function getViewRoute(){
-        return "http://localhost:8080/authball/view/";
+        return "https://authball.azurewebsites.net/view/";
     }

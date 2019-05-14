@@ -6,9 +6,9 @@
 // ──────────────────────────────────────────────────────────────────────────────
 //
 
-    $host = 'localhost';
+    $host = 'authball.mariadb.database.azure.com';
     $db   = 'authball';
-    $user = 'authuser';
+    $user = 'authuser@authball';
     $pass = 'htua';
     $charset = 'utf8mb4';
 
